@@ -1,4 +1,4 @@
-from game_data import data
+from agame_data import data
 import random
 
 def format_data(account):
